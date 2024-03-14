@@ -1,5 +1,4 @@
 #!/bin/env python3
-from multiprocessing import forkserver
 import os
 
 os.system("pip install -U scratchattach --break-system-packages")
